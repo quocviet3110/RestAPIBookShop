@@ -1,0 +1,17 @@
+.total-money-label {
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+.total-money {
+    color: var(--primary-color);
+}
+
+.heading-order {
+    position: relative;
+    top: 31px;
+    left: 355px;
+    font-size: 1.6rem;
+    font-weight: bold;
+    width: 300px;
+}
